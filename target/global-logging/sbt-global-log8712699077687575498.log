@@ -1,0 +1,18 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\USER\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\USER\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.10.1 (Oracle Corporation Java 17.0.7)
+[debug] Load.defaultLoad until apply took 366.3234ms
+[debug]           Load.loadUnit: plugins took 174.2576ms
+[debug]           Load.loadUnit: defsScala took 0.6535ms
+[debug] [Loading] Scanning directory C:\Users\USER\Desktop\PAIII\grupal\project
+[debug]             Load.loadUnit: mkEval took 36.9818ms
